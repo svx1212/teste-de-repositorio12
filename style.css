@@ -1,0 +1,14 @@
+body{
+background: blue;
+color: white;
+font-family: "New Amsterdam", sans-serif;
+font-weight: 400;
+
+}
+
+.imagem{
+    border-radius: 25px;
+width: 25%;
+border-top: 20px;
+cursor: pointer;
+}
